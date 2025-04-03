@@ -1,0 +1,9 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px ;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
