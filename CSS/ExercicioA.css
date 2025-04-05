@@ -1,7 +1,10 @@
 #title {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 30px;
 }
 .redtext{
     color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    border: 3px white;
 }
